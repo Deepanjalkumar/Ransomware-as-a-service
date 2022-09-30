@@ -5,3 +5,5 @@
 2- Custom Crypter
 
 3- Custom Protector 
+
+4- Custom Ransomware
