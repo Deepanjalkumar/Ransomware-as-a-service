@@ -7,3 +7,11 @@
 3- Custom Protector 
 
 4- Custom Ransomware
+
+5- Antivirus Intel
+
+6- EDR Intel
+
+7- XDR Intel
+
+8- MDR Intel
